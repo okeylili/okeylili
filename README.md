@@ -51,28 +51,60 @@
 
 ## 📌 Projects
 
-* 🚪 **Smart IoT Doormate**
-  → Smart door automation using IoT
+### 🔐 Sentinel AI X Security Suite
 
-* 🤖 **AI-Based Hiring System**
-  → AI-driven candidate screening
+> AI-powered cybersecurity platform for threat detection & monitoring
 
-* 📊 **ML Wine Quality Prediction**
-  → Machine learning prediction model
-
-* 🌐 **URL Shortener**
-  → Backend system for link management
-
-* 📋 **TaskFlow**
-  → Task & productivity management
-
-* 🔐 **Sentinel AI X Security Suite**
-  → AI-powered cybersecurity platform
-
-* 🏥 **Hospital Management Analytics System**
-  → Data analytics with MongoDB
+**Tech:** Python, AI/ML, Security
 
 ---
+
+### 🏥 Hospital Management Analytics System
+
+> MongoDB-based analytics dashboard for hospital data insights
+
+**Tech:** MongoDB, Node.js
+
+---
+
+### 🤖 AI-Based Hiring System
+
+> Intelligent system to automate candidate screening
+
+**Tech:** Python, Machine Learning
+
+---
+
+### 🚪 Smart IoT Doormate
+
+> IoT-based smart door automation system
+
+**Tech:** IoT, Embedded Systems
+
+---
+
+### 🌐 URL Shortener
+
+> Backend system to generate and manage short links
+
+**Tech:** Node.js, Database
+
+---
+
+### 📋 TaskFlow
+
+> Task and productivity management application
+
+**Tech:** Full Stack
+
+---
+
+### 📊 ML Wine Quality Prediction
+
+> ML model to predict wine quality based on features
+
+**Tech:** Python, ML
+
 
 ## 📈 GitHub Stats
 
