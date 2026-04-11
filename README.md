@@ -1,17 +1,20 @@
 # Hi, I'm Diksha Pimpalkar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=SY+BTech+Student+at+PICT;DSA+Enthusiast;Cybersecurity+%7C+DevOps+%7C+AI%2FML;Building+Real-World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=4000&color=E8A2B8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Diksha+Pimpalkar;Backend+%7C+Cybersecurity+%7C+AI%2FML;Building+thoughtful+and+scalable+systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌸 About Me
 
 🎓 SY BTech @ Pune Institute of Computer Technology (PICT)
+
 💻 Strong in **DSA, DBMS, OS, IoT**
-🌱 Learning **Cybersecurity, DevOps, AI/ML**
-🔍 Interested in **Backend + Security + Intelligent Systems**
+
+🌱 Exploring **Cybersecurity, DevOps, AI/ML, Cloud Computing**
+
+🎯 Interested in **Backend Systems, Security & Intelligent Applications**
 
 ---
 
@@ -20,68 +23,70 @@
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/C++-F8C8DC?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FFE4E1?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FDEEF4?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-FCF4F5?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-F3E5F5?style=for-the-badge&logo=css3&logoColor=black"/>
 </p>
 
-### ⚙️ Technologies
+---
+
+### ⚙️ Technologies & Domains
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/IoT-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-E6E6FA?style=for-the-badge&logo=mongodb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-F8C8DC?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/IoT-FFE4E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-FDEEF4?style=for-the-badge&logo=googlecloud&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%2FML-FCF4F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-F3E5F5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-E6E6FA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-F8C8DC?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Projects
 
-🚪 **Smart IoT Doormate**
-→ Smart door automation using IoT
+* 🚪 **Smart IoT Doormate**
+  → Smart door automation using IoT
 
-🤖 **AI-Based Hiring System**
-→ Automated candidate screening system
+* 🤖 **AI-Based Hiring System**
+  → AI-driven candidate screening
 
-📊 **ML Wine Quality Prediction**
-→ Machine learning model for prediction
+* 📊 **ML Wine Quality Prediction**
+  → Machine learning prediction model
 
-🌐 **URL Shortener**
-→ Backend system for managing short links
+* 🌐 **URL Shortener**
+  → Backend system for link management
 
-📋 **TaskFlow**
-→ Productivity & task management system
+* 📋 **TaskFlow**
+  → Task & productivity management
 
-🔐 **Sentinel AI X Security Suite**
-→ AI-powered cybersecurity solution
+* 🔐 **Sentinel AI X Security Suite**
+  → AI-powered cybersecurity platform
 
-🏥 **Hospital Management Analytics System**
-→ MongoDB-based analytics dashboard
+* 🏥 **Hospital Management Analytics System**
+  → Data analytics with MongoDB
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=rose-pine&hide_border=true" />
 </p>
 
 ---
@@ -89,7 +94,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
@@ -97,14 +102,17 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://www.linkedin.com/in/diksha-pimpalkar-a36124313/"/>
+<a href="https://www.linkedin.com/in/diksha-pimpalkar-a36124313/">
+<img src="https://img.shields.io/badge/LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-<a href="diksha.pimpalkar@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
+<a href="mailto:diksha.pimpalkar@gmail.com">
+<img src="https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 </p>
 
 ---
 
-⭐ *Always learning, building, and improving.*
+<p align="center">
+  💗 <i>Consistently learning, building, and growing</i>
+</p>
