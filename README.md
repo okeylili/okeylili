@@ -1,19 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diksha%20Pimpalkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diksha%20Pimpalkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Cloud&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=E8A2B8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔐+Building+Secure+%26+Intelligent+Systems;⚙️+Backend+Engineer+%7C+Security+Researcher;🧠+AI%2FML+Explorer+%7C+Cloud+Architect;🎓+BTech+CSE+%40+PICT+Pune;💡+Turning+Ideas+into+Scalable+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=E8A2B8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+Secure+%26+Intelligent+Systems;Security+Researcher+%7C+AI%2FML+Explorer;Cloud+Architect+%7C+IoT+Developer;BTech+CSE+%40+PICT+Pune;Turning+Ideas+into+Scalable+Reality" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views & Visitors -->
 <img src="https://komarev.com/ghpvc/?username=okeylili&label=Profile+Views&color=E8A2B8&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/okeylili?label=Followers&style=flat-square&color=E8A2B8&labelColor=1a1a2e" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Security%20%7C%20AI-E8A2B8?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Focus-Security%20%7C%20AI%2FML%20%7C%20Cloud-E8A2B8?style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
@@ -30,12 +28,12 @@ class DikshaPimpalkar:
     def __init__(self):
         self.name        = "Diksha Pimpalkar"
         self.degree      = "SY BTech CSE @ PICT, Pune"
-        self.roles       = ["Backend Developer", "Security Researcher", "AI/ML Enthusiast"]
+        self.roles       = ["Security Researcher", "AI/ML Enthusiast", "Systems Developer"]
         self.languages   = ["Python", "Java", "C++", "JavaScript", "SQL"]
         self.interests   = ["Cybersecurity", "DevOps", "Cloud", "Intelligent Systems", "IoT"]
         self.currently   = "Building Sentinel AI X Security Suite"
         self.learning    = ["Kubernetes", "Penetration Testing", "LLM Fine-tuning"]
-        self.ask_me      = "Backend architecture, DSA, Security concepts, DBMS"
+        self.ask_me      = "DSA, Security concepts, DBMS, AI/ML pipelines"
         self.fun_fact    = "I debug faster with lo-fi music playing 🎵"
 
     def say_hi(self):
